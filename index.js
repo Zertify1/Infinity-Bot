@@ -37,7 +37,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Bot Puffoso"];
+const statusMessages = ["Official Infinity Bot"];
 
 
 let currentIndex = 0;
